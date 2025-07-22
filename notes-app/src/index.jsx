@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react"; ← ini bisa dihapus
 import { createRoot } from "react-dom/client";
 import NotesApp from "./component/NotesApp";
 
