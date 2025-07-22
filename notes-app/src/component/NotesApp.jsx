@@ -78,7 +78,7 @@ class NotesApp extends React.Component {
       <>
         <div className="notes-app__header">
           <img
-            src="public/images/matcha.png"
+            src="notes-app/public/images/matcha.png"
             className="notes-app__image"
             alt="matcha notes"
           />
