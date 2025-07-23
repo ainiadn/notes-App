@@ -176,3 +176,9 @@ body {
     border: 2px #3c5332;
     background-color: rgb(240, 247, 214);
 }
+
+@media screen and (max-width: 768px) {
+  .notes-list, .notes-archive_list {
+    grid-template-columns: 1fr;
+  }
+}
